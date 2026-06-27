@@ -71,3 +71,6 @@ ruff==0.6.0
 
 # Translation Fallback (optional, large model)
 # indictrans2==1.0.0
+
+# Development Tools
+pre-commit==3.8.0
