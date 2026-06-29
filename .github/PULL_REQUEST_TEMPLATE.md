@@ -4,7 +4,7 @@ Closes #
 
 ## What Changed
 
-- 
+-
 
 ## How to Test
 
