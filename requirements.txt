@@ -17,7 +17,7 @@ redis==5.0.8
 aioredis==2.0.1
 
 # Agent Orchestration
-langgraph==0.2.0
+langgraph==0.2.39
 langchain-groq==0.2.0
 langchain-core==0.3.0
 
@@ -71,3 +71,6 @@ ruff==0.6.0
 
 # Translation Fallback (optional, large model)
 # indictrans2==1.0.0
+
+# Development Tools
+pre-commit==3.8.0
